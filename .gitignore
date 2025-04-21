@@ -1,0 +1,9 @@
+# Ignore Gmail auth tokens and credentials
+credentials.json
+token.json
+
+# Ignore generated receipts and PDFs
+receipts_pdf/
+__pycache__/
+*.pyc
+*.log
