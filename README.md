@@ -17,8 +17,8 @@ This script automatically extracts and compiles Uber trip receipt data from your
 ### 1. Clone this repository
 
 ```
-git clone https://github.com/yourusername/uber-receipt-parser.git
-cd uber-receipt-parser
+git clone https://github.com/bibhashthakur/uber-receipts-automation.git
+cd uber-receipts-automation
 ```
 
 ### 2. Install dependencies
